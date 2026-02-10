@@ -66,18 +66,18 @@ h5 {
 .rrss {
   margin-top: 20px;
   text-align: center;
-  font-size: 0.9rem;
+  font-size: 1.2rem;
 }
 
 /* MOBILE */
 
 @media screen and (max-width: 530px) {
  .miguel {
-   font-size: 2rem;
+   font-size: 3rem;
  }
 
  .rrss {
    margin-top: 10px;
-   font-size: 0.5rem;
+   font-size: 0.8rem;
  }
 }
