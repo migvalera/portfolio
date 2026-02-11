@@ -8,6 +8,8 @@ _Proyecto de web personal utilizando HTML5, CSS3 y JavaScript para alguna funcio
 _Puedes navegar por la web de Miguel Valera desde cualquier dispositivo aquí:_
 
 * [Ver web de Miguel Valera](https://migvalera.github.io/portfolio/index.html)
+* [Ver Portfolio Figma Make](https://miguelvalera.figma.site/)
+
 
 
 ## Construido con 🛠️ 
